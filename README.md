@@ -1,1 +1,1 @@
-Este repositório contém as versões do trabalho interdisciplinar
+Este repositório contém as versões e assets do trabalho interdisciplinar
